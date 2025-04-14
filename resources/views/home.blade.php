@@ -22,13 +22,13 @@
 
         <div class="row g-0" style="padding-top:10px">
             <div class="col-4">
-                <img src="/svg/ocean_2.jpg" style="width:200px; height:200px">
+                <img src="/svg/ocean_2.jpg" style="width:350px; height:350px">
             </div>
             <div class="col-4">
-                <img src="/svg/nature_3.jpg" style="width:200px; height:200px">
+                <img src="/svg/nature_3.jpg" style="width:350px; height:350px">
             </div>
             <div class="col-4">
-                <img src="/svg/space_1.jpg" style="width:200px; height:200px">
+                <img src="/svg/space_1.jpg" style="width:350px; height:350px">
             </div>
         </div>
     </div>
