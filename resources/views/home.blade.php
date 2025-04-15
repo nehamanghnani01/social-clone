@@ -8,7 +8,10 @@
 
         </div>
         <div class="col-9" style="padding-top:5px;">
-            <div><h1>{{$user->username}}</h1></div>
+            <div class="d-flex justify-content-between">
+                <h1>{{$user->username}}</h1>
+                <a href="#">Add a new Post</a>
+            </div>
             <div class="d-flex">
                 <div style="padding-right:10px;"><strong>153 posts</strong></div>
                 <div style="padding-right:10px;"><strong>23k followers</strong></div>
@@ -22,13 +25,13 @@
 
         <div class="row g-0" style="padding-top:10px">
             <div class="col-4">
-                <img src="/svg/ocean_2.jpg" style="width:350px; height:350px">
+                <img src="/svg/ocean_2.jpg" style="width:300px; height:300px">
             </div>
             <div class="col-4">
-                <img src="/svg/nature_3.jpg" style="width:350px; height:350px">
+                <img src="/svg/nature_3.jpg" style="width:300px; height:300px">
             </div>
             <div class="col-4">
-                <img src="/svg/space_1.jpg" style="width:350px; height:350px">
+                <img src="/svg/space_1.jpg" style="width:300px; height:300px">
             </div>
         </div>
     </div>
